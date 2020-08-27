@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "GalvanCarlos",
+        "url": "http://github.com/GalvanCarlos"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "carlos-galvan-jr",
+        "url": "https://www.linkedin.com/in/carlos-galvan-jr/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "SaintCharlos",
+        "url": "https://twitter.com/SaintCharlos"
       },
       {
         "network": "instagram",
@@ -39,15 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "front end",
+        "back end",
+        "full stack"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Graphic Design",
       "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Adobe Suite"
       ]
     },
     {
@@ -61,34 +65,28 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java",
+        "HTML",
+        "CSS",
+        "Python"
+
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora IL",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
       "courses": [
       ]
     }
