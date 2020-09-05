@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/million.png
+image: images/login.PNG
 title: CSC4500 Database Final Project
 permalink: projects/database
 # All dates must be YYYY-MM-DD format!
