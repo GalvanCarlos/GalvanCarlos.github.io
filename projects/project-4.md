@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/solar_systems.png
+image: images/solar_system.png
 title: WIP
 permalink: projects/test
 # All dates must be YYYY-MM-DD format!
