@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/csc4500/login.png
+image: images/login.png
 title: Vacay
 permalink: projects/database
 # All dates must be YYYY-MM-DD format!
@@ -16,9 +16,9 @@ labels:
 summary: This was a group final for CSC4500 Database Design & Implement.
 ---
 
-<img  src="{{ site.baseurl }}/images/csc4500/mainPage.jpg">
-<img  src="{{ site.baseurl }}/images/csc4500/donation.jpg">
-<img  src="{{ site.baseurl }}/images/csc4500/sendDonation.jpg">
+<img  src="{{ site.baseurl }}/images/mainPage.jpg">
+<img  src="{{ site.baseurl }}/images/donation.jpg">
+<img  src="{{ site.baseurl }}/images/sendDonation.jpg">
 
 
 
