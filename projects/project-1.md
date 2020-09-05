@@ -14,7 +14,7 @@ summary: I wrote a python program that extracted a number into an equation consi
 
 <html id="thisHTML"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Discrete Mathematics Final Project</title><style>
 /* webkit printing magic: print all background colors */
-html {
+#thisHTML {
 	-webkit-print-color-adjust: exact;
 }
 * {
@@ -38,7 +38,7 @@ html {
 	}
 }
 
-body {
+#thisBody {
 	line-height: 1.5;
 	white-space: pre-wrap;
 }
