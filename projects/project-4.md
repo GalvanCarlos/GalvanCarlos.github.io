@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/solar_system.png
-title: WIP
-permalink: projects/test
+title: JavaScript Animation
+permalink: projects/zdog
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-01
 labels:
@@ -18,7 +18,7 @@ canvas {
   background-color: #3e1941;
 }
 </style>
-<h1> Hello</h1>
+<h6>this page is a WIP</h6>
 <canvas class="zdog-canvas" style="width=600px;height600px" />
 <canvas class="zdog-canvas-star"  />
 <script src='https://unpkg.com/zdog@1/dist/zdog.dist.js'></script>
