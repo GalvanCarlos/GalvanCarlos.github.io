@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/login.png
-title: Vacay
+image: images/million.png
+title: CSC4500 Database Final Project
 permalink: projects/database
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-20
