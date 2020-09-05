@@ -22,4 +22,4 @@ summary: This was a group final for CSC4500 Database Design & Implement.
 
 
 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/mmccarthy10/cscs4500-database"><i class="large github icon"></i>Source Code</a>
