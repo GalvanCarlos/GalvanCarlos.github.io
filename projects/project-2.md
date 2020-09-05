@@ -16,9 +16,9 @@ labels:
 summary: This was a group final for CSC4500 Database Design & Implement.
 ---
 
-<img  src="{{ site.baseurl }}/images/mainPage.jpg">
-<img  src="{{ site.baseurl }}/images/donation.jpg">
-<img  src="{{ site.baseurl }}/images/sendDonation.jpg">
+<img  src="https://github.com/GalvanCarlos/GalvanCarlos.github.io/blob/master/images/mainPage.JPG?raw=true">
+<img  src="https://github.com/GalvanCarlos/GalvanCarlos.github.io/blob/master/images/donation.JPG?raw=true">
+<img  src="https://github.com/GalvanCarlos/GalvanCarlos.github.io/blob/master/images/sendDonation.JPG?raw=true">
 
 
 
