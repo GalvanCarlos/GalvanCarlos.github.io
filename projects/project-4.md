@@ -12,10 +12,7 @@ summary: A text adventure game I developed for ICS 313.
 ---
 <style>
 canvas {
-  position: relative;
-  display: inline-block;
-  vertical-align: middle;
-
+  
   width: 500px;
   height: 500px;
   background-color: #3e1941;
