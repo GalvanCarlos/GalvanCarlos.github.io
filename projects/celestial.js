@@ -25,7 +25,7 @@ let illo = new Zdog.Illustration({
   // set canvas with selector
     element: '.zdog-canvas',
     dragRotate: true,
-    resize: 'fullscreen',
+    //resize: 'fullscreen',
     zoom: 2,
 
      onDragStart: function() {
@@ -328,7 +328,7 @@ let fillo = new Zdog.Illustration({
     // set canvas with selector
     element: '.zdog-canvas-star',
     dragRotate: true,
-    resize: 'fullscreen',
+    //resize: 'fullscreen',
     zoom: 2,
     centered: true,
 });
