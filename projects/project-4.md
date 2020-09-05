@@ -16,8 +16,8 @@ canvas {
   display: inline-block;
   vertical-align: middle;
 
-  width: .5rem;
-  height: .5rem;
+  width: 1rem;
+  height: 2rem;
   background-color: #3e1941;
 }
 </style>
