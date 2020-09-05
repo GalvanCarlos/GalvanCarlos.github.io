@@ -10,6 +10,15 @@ labels:
   - JavaScript
 summary: A text adventure game I developed for ICS 313.
 ---
+<style>
+canvas {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  background-color: #3e1941;
+}
+</style>
 <h1> Hello</h1>
 <canvas class="zdog-canvas" width="240" height="240" />
 <canvas class="zdog-canvas-star" width="240" height="240" />
